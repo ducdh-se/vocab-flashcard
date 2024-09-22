@@ -1,21 +1,18 @@
 body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    padding: 20px;
+    font-family: Arial, sans-serif; /* Chọn phông chữ dễ đọc */
+    background-color: #f5f5f5; /* Màu nền nhẹ nhàng */
+    margin: 0; /* Xóa margin mặc định */
+    padding: 20px; /* Thêm khoảng cách cho trang */
 }
 
-#flashcard, #result {
-    margin-top: 20px;
+h1, h2 {
+    color: #333; /* Màu chữ cho tiêu đề */
+    text-align: center; /* Căn giữa tiêu đề */
 }
 
-input[type="text"] {
-    padding: 10px;
-    width: 200px;
-}
-
-button {
-    padding: 10px 20px;
-    margin: 10px;
+#lesson-selection {
+    text-align: center; /* Căn giữa cho danh sách bài học */
+    margin-bottom: 20px; /* Khoảng cách dưới danh sách */
 }
 
 #lesson-list {
@@ -24,18 +21,54 @@ button {
 }
 
 #lesson-list li {
-    background-color: #f0f0f0; /* Màu nền cho từng mục */
+    background-color: #4CAF50; /* Màu nền cho từng mục */
     margin: 10px 0; /* Khoảng cách giữa các mục */
     padding: 15px; /* Khoảng cách bên trong */
     border-radius: 5px; /* Bo góc */
+    color: white; /* Màu chữ */
     cursor: pointer; /* Hiển thị con trỏ như bàn tay khi di chuột */
     transition: background-color 0.3s; /* Hiệu ứng chuyển màu */
 }
 
 #lesson-list li:hover {
-    background-color: #d9d9d9; /* Màu nền khi di chuột qua */
+    background-color: #45a049; /* Màu nền khi di chuột qua */
 }
 
-#lesson-list li:active {
-    background-color: #c0c0c0; /* Màu nền khi nhấn vào */
+#flashcard {
+    display: none; /* Ẩn flashcard ban đầu */
+    background-color: white; /* Màu nền trắng cho flashcard */
+    padding: 20px; /* Khoảng cách bên trong */
+    border-radius: 8px; /* Bo góc */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Hiệu ứng đổ bóng */
+}
+
+input[type="text"] {
+    width: 100%; /* Chiều rộng đầy đủ */
+    padding: 10px; /* Khoảng cách bên trong */
+    margin: 10px 0; /* Khoảng cách trên dưới */
+    border: 1px solid #ccc; /* Đường viền */
+    border-radius: 5px; /* Bo góc */
+}
+
+button {
+    background-color: #4CAF50; /* Màu nền cho nút */
+    color: white; /* Màu chữ */
+    padding: 10px 15px; /* Khoảng cách bên trong */
+    border: none; /* Không có đường viền */
+    border-radius: 5px; /* Bo góc */
+    cursor: pointer; /* Hiển thị con trỏ như bàn tay khi di chuột */
+    transition: background-color 0.3s; /* Hiệu ứng chuyển màu */
+}
+
+button:hover {
+    background-color: #45a049; /* Màu nền khi di chuột qua */
+}
+
+#result {
+    display: none; /* Ẩn kết quả ban đầu */
+    margin-top: 20px; /* Khoảng cách trên */
+    padding: 20px; /* Khoảng cách bên trong */
+    background-color: #fff; /* Màu nền trắng */
+    border-radius: 8px; /* Bo góc */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Hiệu ứng đổ bóng */
 }
