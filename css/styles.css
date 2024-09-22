@@ -17,3 +17,25 @@ button {
     padding: 10px 20px;
     margin: 10px;
 }
+
+#lesson-list {
+    list-style-type: none; /* Xóa dấu đầu dòng */
+    padding: 0; /* Xóa khoảng cách padding mặc định */
+}
+
+#lesson-list li {
+    background-color: #f0f0f0; /* Màu nền cho từng mục */
+    margin: 10px 0; /* Khoảng cách giữa các mục */
+    padding: 15px; /* Khoảng cách bên trong */
+    border-radius: 5px; /* Bo góc */
+    cursor: pointer; /* Hiển thị con trỏ như bàn tay khi di chuột */
+    transition: background-color 0.3s; /* Hiệu ứng chuyển màu */
+}
+
+#lesson-list li:hover {
+    background-color: #d9d9d9; /* Màu nền khi di chuột qua */
+}
+
+#lesson-list li:active {
+    background-color: #c0c0c0; /* Màu nền khi nhấn vào */
+}
