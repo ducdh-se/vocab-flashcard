@@ -233,5 +233,249 @@
             ],
             "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sat/satis/satisfy__us_1.mp3"
         }
+    ],
+    "Lesson 3": [
+        {
+            "word": "characteristic",
+            "type": "noun",
+            "meaning": "A distinguishing feature or quality",
+            "examples": [
+                "One characteristic of the store is its excellent customer service.",
+                "The new product has several unique characteristics."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cha/charac/characteristic__us_1.mp3"
+        },
+        {
+            "word": "consequence",
+            "type": "noun",
+            "meaning": "A result of an action",
+            "examples": [
+                "As a consequence of the new policy, many employees will lose their jobs.",
+                "The consequence of not following the safety guidelines could be severe."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/con/conse/consequence__us_1.mp3"
+        },
+        {
+            "word": "consider",
+            "type": "verb",
+            "meaning": "To think about carefully",
+            "examples": [
+                "We are considering several options for the new project.",
+                "She considered all the factors before making a decision."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/con/consi/consider__us_1.mp3"
+        },
+        {
+            "word": "cover",
+            "type": "verb",
+            "meaning": "To provide protection against",
+            "examples": [
+                "The insurance policy covers the cost of repairs.",
+                "The warranty covers all parts and labor."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cov/cover/cover__us_1.mp3"
+        },
+        {
+            "word": "expiration",
+            "type": "noun",
+            "meaning": "The end of a period of time",
+            "examples": [
+                "The expiration date is printed on the package.",
+                "Check the expiration of your passport before you travel."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/exp/expir/expiration__us_1.mp3"
+        },
+        {
+            "word": "frequently",
+            "type": "adverb",
+            "meaning": "Occurring commonly; widespread",
+            "examples": [
+                "The company frequently updates its software.",
+                "He travels frequently for business."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fre/frequ/frequently__us_1.mp3"
+        },
+        {
+            "word": "imply",
+            "type": "verb",
+            "meaning": "To indicate by inference",
+            "examples": [
+                "The report implies that the company is in good financial health.",
+                "Her tone implied that she was not happy with the decision."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/imp/imply/imply__us_1.mp3"
+        },
+        {
+            "word": "promise",
+            "type": "noun",
+            "meaning": "A declaration that something will or will not be done",
+            "examples": [
+                "She made a promise to help him with his project.",
+                "The company has kept its promise to improve working conditions."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/promi/promise__us_1.mp3"
+        },
+        {
+            "word": "protect",
+            "type": "verb",
+            "meaning": "To guard",
+            "examples": [
+                "The new law protects the rights of consumers.",
+                "He wore a helmet to protect his head."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/prote/protect__us_1.mp3"
+        },
+        {
+            "word": "reputation",
+            "type": "noun",
+            "meaning": "The overall quality of character",
+            "examples": [
+                "The company has a reputation for excellent customer service.",
+                "He built a reputation as a reliable worker."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/rep/reput/reputation__us_1.mp3"
+        },
+        {
+            "word": "require",
+            "type": "verb",
+            "meaning": "To deem necessary or essential",
+            "examples": [
+                "The job requires a high level of skill.",
+                "The project requires careful planning."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/req/requi/require__us_1.mp3"
+        },
+        {
+            "word": "variety",
+            "type": "noun",
+            "meaning": "Many different kinds",
+            "examples": [
+                "The store offers a variety of products.",
+                "She enjoys a variety of activities in her free time."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/v/var/varie/variety__us_1.mp3"
+        }
+    ],
+    "Lesson 4": [
+        {
+            "word": "address",
+            "type": "verb",
+            "meaning": "To direct to the attention of",
+            "examples": [
+                "He addressed the issue of customer complaints in the meeting.",
+                "The letter was addressed to the company's CEO."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/add/addre/address__us_1.mp3"
+        },
+        {
+            "word": "avoid",
+            "type": "verb",
+            "meaning": "To stay clear of; to keep from happening",
+            "examples": [
+                "To avoid going out of business, owners should prepare a proper business plan.",
+                "She took a different route to avoid traffic."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/avo/avoid/avoid__us_1.mp3"
+        },
+        {
+            "word": "demonstrate",
+            "type": "verb",
+            "meaning": "To show clearly and deliberately",
+            "examples": [
+                "The professor demonstrated the experiment to the students.",
+                "The sales team demonstrated the new product to potential customers."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dem/demon/demonstrate__us_1.mp3"
+        },
+        {
+            "word": "develop",
+            "type": "verb",
+            "meaning": "To expand, progress, or improve",
+            "examples": [
+                "The company developed a new software to improve customer service.",
+                "She developed her skills through years of practice."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/d/dev/devel/develop__us_1.mp3"
+        },
+        {
+            "word": "evaluate",
+            "type": "verb",
+            "meaning": "To determine the value or impact of",
+            "examples": [
+                "The manager evaluated the performance of the team.",
+                "We need to evaluate the effectiveness of the new policy."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/e/eva/evalu/evaluate__us_1.mp3"
+        },
+        {
+            "word": "gather",
+            "type": "verb",
+            "meaning": "To accumulate; to conclude",
+            "examples": [
+                "We gathered information from various sources.",
+                "The researchers gathered data for their study."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/g/gat/gathe/gather__us_1.mp3"
+        },
+        {
+            "word": "offer",
+            "type": "verb",
+            "meaning": "To propose; to present in order to meet a need or satisfy a requirement",
+            "examples": [
+                "The company offered a discount to attract new customers.",
+                "She offered her assistance to the new employee."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/o/off/offer/offer__us_1.mp3"
+        },
+        {
+            "word": "primarily",
+            "type": "adverb",
+            "meaning": "First; most importantly",
+            "examples": [
+                "The advertisement is aimed primarily at young people.",
+                "The company's profits come primarily from its overseas operations."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pri/primar/primarily__us_1.mp3"
+        },
+        {
+            "word": "risk",
+            "type": "noun",
+            "meaning": "The chance of loss or damage",
+            "examples": [
+                "Investing in stocks always carries some risk.",
+                "The company took a risk by launching a new product."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/r/ris/risk_/risk__us_1.mp3"
+        },
+        {
+            "word": "strategy",
+            "type": "noun",
+            "meaning": "A plan of action",
+            "examples": [
+                "The company developed a new marketing strategy.",
+                "We need a strategy to increase our market share."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/strat/strategy__us_1.mp3"
+        },
+        {
+            "word": "strong",
+            "type": "adjective",
+            "meaning": "Powerful; economically or financially sound",
+            "examples": [
+                "The company has a strong market position.",
+                "She has a strong background in finance."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/str/stron/strong__us_1.mp3"
+        },
+        {
+            "word": "substitute",
+            "type": "verb",
+            "meaning": "To take the place of another",
+            "examples": [
+                "You can substitute margarine for butter in this recipe.",
+                "The coach substituted the injured player with a new one."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sub/subst/substitute__us_1.mp3"
+        }
     ]
 }
