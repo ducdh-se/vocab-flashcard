@@ -20,6 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
         .catch(error => console.error('Error loading vocabulary data:', error));
 
     function loadLessons(data) {
+        lessonList.innerHTML = ''; // Clear previous list if any
         for (let lesson in data) {
             let listItem = document.createElement('li');
             listItem.textContent = lesson;

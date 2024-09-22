@@ -1,249 +1,125 @@
 {
     "Lesson 1": [
         {
-            "word": "abandon",
+            "word": "abide by",
             "type": "verb",
-            "meaning": "To leave someone or something behind",
+            "meaning": "To comply with; to conform",
             "examples": [
-                "They had to abandon their car.",
-                "The baby was abandoned at the station.",
-                "She abandoned her idea of becoming a nurse."
+                "The two parties agreed to abide by the judge's decision.",
+                "For years he has abided by a commitment to annual employee raises."
             ],
-            "audio": "audio/abandon.mp3"
+            "audio": "audio/abide_by.mp3"
         },
         {
-            "word": "keen",
-            "type": "adjective",
-            "meaning": "Eager or enthusiastic",
-            "examples": [
-                "She is very keen on learning new languages.",
-                "He has a keen sense of humor.",
-                "They are keen to start the project."
-            ],
-            "audio": "audio/keen.mp3"
-        },
-        {
-            "word": "jealous",
-            "type": "adjective",
-            "meaning": "Feeling or showing envy of someone or their achievements",
-            "examples": [
-                "She felt jealous when she saw her ex with another girl.",
-                "He is jealous of his friend's success.",
-                "They tried to make each other jealous."
-            ],
-            "audio": "audio/jealous.mp3"
-        },
-        {
-            "word": "tact",
+            "word": "agreement",
             "type": "noun",
-            "meaning": "Skill and sensitivity in dealing with others or with difficult issues",
+            "meaning": "A mutual arrangement, usually written",
             "examples": [
-                "He handled the situation with tact.",
-                "She showed great tact in avoiding the sensitive topic.",
-                "It requires tact to manage these negotiations."
+                "The agreement was signed by both parties.",
+                "We reached an agreement after a long discussion.",
+                "The contract is an agreement between the buyer and seller."
             ],
-            "audio": "audio/tact.mp3"
+            "audio": "audio/agreement.mp3"
         },
         {
-            "word": "oath",
+            "word": "assurance",
             "type": "noun",
-            "meaning": "A solemn promise, often invoking a divine witness, regarding one's future action or behavior",
+            "meaning": "A guarantee; confidence",
             "examples": [
-                "He took an oath of loyalty.",
-                "The witness swore an oath to tell the truth.",
-                "She made an oath to protect the secret."
+                "The sales associate gave his assurance that the missing keyboard would be replaced the next day.",
+                "Her self-assurance made it easy to see why she was in charge of the negotiations."
             ],
-            "audio": "audio/oath.mp3"
+            "audio": "audio/assurance.mp3"
         },
         {
-            "word": "vacant",
-            "type": "adjective",
-            "meaning": "Empty, unoccupied",
-            "examples": [
-                "The house has been vacant for a year.",
-                "There are several vacant seats in the front row.",
-                "He has a vacant expression on his face."
-            ],
-            "audio": "audio/vacant.mp3"
-        },
-        {
-            "word": "hardship",
+            "word": "cancellation",
             "type": "noun",
-            "meaning": "Severe suffering or privation",
+            "meaning": "Annulment; stopping",
             "examples": [
-                "They went through a lot of hardship during the war.",
-                "The economic crisis caused severe hardship for many families.",
-                "She overcame many hardships to achieve her goal."
+                "The cancellation of her flight caused her to miss the meeting.",
+                "The cancellation clause appears at the back of the contract."
             ],
-            "audio": "audio/hardship.mp3"
+            "audio": "audio/cancellation.mp3"
         },
         {
-            "word": "gallant",
-            "type": "adjective",
-            "meaning": "Brave, heroic",
-            "examples": [
-                "He made a gallant effort to save her.",
-                "The gallant soldiers fought for their country.",
-                "She was charmed by his gallant behavior."
-            ],
-            "audio": "audio/gallant.mp3"
-        },
-        {
-            "word": "data",
-            "type": "noun",
-            "meaning": "Facts and statistics collected together for reference or analysis",
-            "examples": [
-                "The data shows a clear trend.",
-                "They are collecting data on the population.",
-                "The research is based on data from several sources."
-            ],
-            "audio": "audio/data.mp3"
-        },
-        {
-            "word": "unaccustomed",
-            "type": "adjective",
-            "meaning": "Not familiar with, not used to",
-            "examples": [
-                "She is unaccustomed to the cold weather.",
-                "He was unaccustomed to being treated like that.",
-                "They were unaccustomed to the formal atmosphere."
-            ],
-            "audio": "audio/unaccustomed.mp3"
-        },
-        {
-            "word": "bachelor",
-            "type": "noun",
-            "meaning": "A man who is not and has never been married",
-            "examples": [
-                "He is a confirmed bachelor.",
-                "The bachelor decided to get married.",
-                "They hosted a bachelor party for him."
-            ],
-            "audio": "audio/bachelor.mp3"
-        },
-        {
-            "word": "qualify",
+            "word": "determine",
             "type": "verb",
-            "meaning": "To meet the necessary requirements or conditions for something",
+            "meaning": "To find out; to influence",
             "examples": [
-                "She qualifies for the job.",
-                "He did not qualify for the finals.",
-                "They are trying to qualify for the competition."
+                "After reading the contract, I was still unable to determine if our company was liable for back wages.",
+                "The skill of the union bargainers will determine whether the automotive plant will open next week."
             ],
-            "audio": "audio/qualify.mp3"
+            "audio": "audio/determine.mp3"
+        },
+        {
+            "word": "engage",
+            "type": "verb",
+            "meaning": "To participate; to involve",
+            "examples": [
+                "Before engaging in a new business, it is important to do thorough research.",
+                "He engaged us in a fascinating discussion about current business trends."
+            ],
+            "audio": "audio/engage.mp3"
+        },
+        {
+            "word": "establish",
+            "type": "verb",
+            "meaning": "To institute permanently; to bring about",
+            "examples": [
+                "Through her many books and interviews, Dr. Wan established herself as an authority on conflict resolution.",
+                "The merger of the two companies established a powerful new corporation."
+            ],
+            "audio": "audio/establish.mp3"
+        },
+        {
+            "word": "obligate",
+            "type": "verb",
+            "meaning": "To bind legally or morally",
+            "examples": [
+                "The contractor was obligated by the contract to work 40 hours a week.",
+                "I felt obligated to finish the project even though I was not paid for it."
+            ],
+            "audio": "audio/obligate.mp3"
+        },
+        {
+            "word": "party",
+            "type": "noun",
+            "meaning": "A person or group participating in an action or plan; the persons or sides concerned in a legal matter",
+            "examples": [
+                "The parties agreed to a settlement in their contract dispute.",
+                "The party that prepares the contract has a distinct advantage."
+            ],
+            "audio": "audio/party.mp3"
+        },
+        {
+            "word": "provision",
+            "type": "noun",
+            "meaning": "A measure taken beforehand; a stipulation",
+            "examples": [
+                "The father made provisions for his children through his will.",
+                "The contract contains a provision to deal with how payments are made if John loses his job."
+            ],
+            "audio": "audio/provision.mp3"
+        },
+        {
+            "word": "resolve",
+            "type": "verb",
+            "meaning": "To deal with successfully; to declare",
+            "examples": [
+                "The mediator was able to resolve the problem to everyone's satisfaction.",
+                "The businessman resolved to clean out all the files by the end of the week."
+            ],
+            "audio": "audio/resolve.mp3"
+        },
+        {
+            "word": "specific",
+            "type": "adjective",
+            "meaning": "Particular",
+            "examples": [
+                "The customer's specific complaint was not addressed in his e-mail.",
+                "In a contract, one specific word can change the meaning dramatically."
+            ],
+            "audio": "audio/specific.mp3"
         }
-    ],
-    "Lesson 2": [
-        {
-            "word": "acquire",
-            "type": "verb",
-            "meaning": "To gain possession of something",
-            "examples": [
-                "He acquired a good knowledge of English.",
-                "The company plans to acquire new technology.",
-                "She acquired the habit of reading every night."
-            ],
-            "audio": "audio/acquire.mp3"
-        },
-        {
-            "word": "administer",
-            "type": "verb",
-            "meaning": "To manage or supervise the execution of something",
-            "examples": [
-                "The organization administers the project efficiently.",
-                "She will administer the tests next week.",
-                "He was appointed to administer the new policy."
-            ],
-            "audio": "audio/administer.mp3"
-        },
-        {
-            "word": "approach",
-            "type": "verb",
-            "meaning": "To come near or nearer to something",
-            "examples": [
-                "As we approach the city, the traffic becomes heavier.",
-                "She approached her boss about a promotion.",
-                "The researchers will approach the problem from a different angle."
-            ],
-            "audio": "audio/approach.mp3"
-        },
-        {
-            "word": "assist",
-            "type": "verb",
-            "meaning": "To help someone or provide support",
-            "examples": [
-                "She will assist him in his research.",
-                "They hired someone to assist with the event planning.",
-                "The nurse assisted the doctor during surgery."
-            ],
-            "audio": "audio/assist.mp3"
-        },
-        {
-            "word": "calculate",
-            "type": "verb",
-            "meaning": "To determine a number or amount mathematically",
-            "examples": [
-                "You need to calculate the total cost before buying.",
-                "He calculated his expenses for the month.",
-                "The software can calculate the results quickly."
-            ],
-            "audio": "audio/calculate.mp3"
-        },
-        {
-            "word": "communicate",
-            "type": "verb",
-            "meaning": "To share information or ideas with someone",
-            "examples": [
-                "It's important to communicate your needs clearly.",
-                "They communicate regularly through emails.",
-                "The team must communicate effectively to succeed."
-            ],
-            "audio": "audio/communicate.mp3"
-        },
-        {
-            "word": "distribute",
-            "type": "verb",
-            "meaning": "To give out or deliver something to a number of people",
-            "examples": [
-                "The charity distributes food to those in need.",
-                "We will distribute the flyers tomorrow.",
-                "She distributed the assignments among the students."
-            ],
-            "audio": "audio/distribute.mp3"
-        },
-        {
-            "word": "encourage",
-            "type": "verb",
-            "meaning": "To give support, confidence, or hope to someone",
-            "examples": [
-                "Teachers should encourage students to ask questions.",
-                "Her parents encouraged her to follow her dreams.",
-                "They encourage teamwork in their organization."
-            ],
-            "audio": "audio/encourage.mp3"
-        },
-        {
-            "word": "evaluate",
-            "type": "verb",
-            "meaning": "To assess or appraise something's value or quality",
-            "examples": [
-                "You should evaluate your options carefully.",
-                "The committee will evaluate the proposals next week.",
-                "He needs to evaluate his performance in the job."
-            ],
-            "audio": "audio/evaluate.mp3"
-        },
-        {
-            "word": "require",
-            "type": "verb",
-            "meaning": "To need something for a particular purpose",
-            "examples": [
-                "The job requires excellent communication skills.",
-                "They require all applicants to submit a resume.",
-                "This task will require your full attention."
-            ],
-            "audio": "audio/require.mp3"
-        }
-    ],
-    "Lesson 3": []
+    ]
 }
