@@ -121,5 +121,117 @@
             ],
             "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/spe/speci/specific__us_1.mp3"
         }
+    ],
+    "Lesson 2": [
+        {
+            "word": "attract",
+            "type": "verb",
+            "meaning": "To draw by appeal",
+            "examples": [
+                "The display attracted a number of people at the convention.",
+                "The new advertising campaign is designed to attract customers."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/att/attra/attract__us_1.mp3"
+        },
+        {
+            "word": "compare",
+            "type": "verb",
+            "meaning": "To examine similarities and differences",
+            "examples": [
+                "Once the customer compared the two products, her choice was easy.",
+                "The price for this brand is high compared to the other brands."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compa/compare__us_1.mp3"
+        },
+        {
+            "word": "compete",
+            "type": "verb",
+            "meaning": "To strive against a rival",
+            "examples": [
+                "We competed against three other agencies to get this contract.",
+                "The company has to compete with others to stay in business."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/com/compe/compete__us_1.mp3"
+        },
+        {
+            "word": "consume",
+            "type": "verb",
+            "meaning": "To absorb; to use up",
+            "examples": [
+                "The printer consumes more toner than the previous one.",
+                "This kind of work consumes a lot of time."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/con/consu/consume__us_1.mp3"
+        },
+        {
+            "word": "convince",
+            "type": "verb",
+            "meaning": "To bring to believe by argument; to persuade",
+            "examples": [
+                "He convinced me that he was right.",
+                "The salesman convinced his customer to buy his product."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/con/convi/convince__us_1.mp3"
+        },
+        {
+            "word": "current",
+            "type": "adjective",
+            "meaning": "Happening or existing at the present time",
+            "examples": [
+                "We are currently exploring new marketing strategies.",
+                "The current trend is towards more environmentally friendly products."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/c/cur/curre/current__us_1.mp3"
+        },
+        {
+            "word": "fad",
+            "type": "noun",
+            "meaning": "A practice followed enthusiastically for a short time; a craze",
+            "examples": [
+                "The mini dress was a fad in the 1960s.",
+                "His interest in photography is just a passing fad."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/f/fad/fad__/fad__us_1.mp3"
+        },
+        {
+            "word": "inspire",
+            "type": "verb",
+            "meaning": "To stimulate creativity or action",
+            "examples": [
+                "Her dedication to the job inspired everyone in the office.",
+                "The artist was inspired by the beautiful scenery."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/i/ins/inspi/inspire__us_1.mp3"
+        },
+        {
+            "word": "market",
+            "type": "verb",
+            "meaning": "To promote for sale",
+            "examples": [
+                "They marketed their new product through social media.",
+                "The company markets its products worldwide."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mar/marke/market__us_1.mp3"
+        },
+        {
+            "word": "productive",
+            "type": "adjective",
+            "meaning": "Yielding results; profitable",
+            "examples": [
+                "The team had a very productive meeting.",
+                "She is one of the most productive employees in the company."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/p/pro/prod_/productive__us_1.mp3"
+        },
+        {
+            "word": "satisfy",
+            "type": "verb",
+            "meaning": "To fulfill the needs or expectations",
+            "examples": [
+                "The new product satisfied all our requirements.",
+                "He was satisfied with the results of the test."
+            ],
+            "audio": "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/s/sat/satis/satisfy__us_1.mp3"
+        }
     ]
 }
