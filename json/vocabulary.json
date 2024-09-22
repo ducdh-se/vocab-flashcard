@@ -134,7 +134,116 @@
         }
     ],
     "Lesson 2": [
-        // Add words for Lesson 2 here
+        {
+            "word": "acquire",
+            "type": "verb",
+            "meaning": "To gain possession of something",
+            "examples": [
+                "He acquired a good knowledge of English.",
+                "The company plans to acquire new technology.",
+                "She acquired the habit of reading every night."
+            ],
+            "audio": "audio/acquire.mp3"
+        },
+        {
+            "word": "administer",
+            "type": "verb",
+            "meaning": "To manage or supervise the execution of something",
+            "examples": [
+                "The organization administers the project efficiently.",
+                "She will administer the tests next week.",
+                "He was appointed to administer the new policy."
+            ],
+            "audio": "audio/administer.mp3"
+        },
+        {
+            "word": "approach",
+            "type": "verb",
+            "meaning": "To come near or nearer to something",
+            "examples": [
+                "As we approach the city, the traffic becomes heavier.",
+                "She approached her boss about a promotion.",
+                "The researchers will approach the problem from a different angle."
+            ],
+            "audio": "audio/approach.mp3"
+        },
+        {
+            "word": "assist",
+            "type": "verb",
+            "meaning": "To help someone or provide support",
+            "examples": [
+                "She will assist him in his research.",
+                "They hired someone to assist with the event planning.",
+                "The nurse assisted the doctor during surgery."
+            ],
+            "audio": "audio/assist.mp3"
+        },
+        {
+            "word": "calculate",
+            "type": "verb",
+            "meaning": "To determine a number or amount mathematically",
+            "examples": [
+                "You need to calculate the total cost before buying.",
+                "He calculated his expenses for the month.",
+                "The software can calculate the results quickly."
+            ],
+            "audio": "audio/calculate.mp3"
+        },
+        {
+            "word": "communicate",
+            "type": "verb",
+            "meaning": "To share information or ideas with someone",
+            "examples": [
+                "It's important to communicate your needs clearly.",
+                "They communicate regularly through emails.",
+                "The team must communicate effectively to succeed."
+            ],
+            "audio": "audio/communicate.mp3"
+        },
+        {
+            "word": "distribute",
+            "type": "verb",
+            "meaning": "To give out or deliver something to a number of people",
+            "examples": [
+                "The charity distributes food to those in need.",
+                "We will distribute the flyers tomorrow.",
+                "She distributed the assignments among the students."
+            ],
+            "audio": "audio/distribute.mp3"
+        },
+        {
+            "word": "encourage",
+            "type": "verb",
+            "meaning": "To give support, confidence, or hope to someone",
+            "examples": [
+                "Teachers should encourage students to ask questions.",
+                "Her parents encouraged her to follow her dreams.",
+                "They encourage teamwork in their organization."
+            ],
+            "audio": "audio/encourage.mp3"
+        },
+        {
+            "word": "evaluate",
+            "type": "verb",
+            "meaning": "To assess or appraise something's value or quality",
+            "examples": [
+                "You should evaluate your options carefully.",
+                "The committee will evaluate the proposals next week.",
+                "He needs to evaluate his performance in the job."
+            ],
+            "audio": "audio/evaluate.mp3"
+        },
+        {
+            "word": "require",
+            "type": "verb",
+            "meaning": "To need something for a particular purpose",
+            "examples": [
+                "The job requires excellent communication skills.",
+                "They require all applicants to submit a resume.",
+                "This task will require your full attention."
+            ],
+            "audio": "audio/require.mp3"
+        }
     ],
-    // Add more lessons here
+    "Lesson 3": []
 }
